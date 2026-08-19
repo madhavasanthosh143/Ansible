@@ -2,7 +2,7 @@
   hosts: local
   connection: local #ansible is connecting to localhost
   vars:
-    COURSE: ansible
+    COURSE: aws with devops
     DURATION: 10hrs
     Trainer: santhosh
   tasks:
